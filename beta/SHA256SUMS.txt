@@ -1,4 +1,4 @@
 78df8fab0fde11a9282b0ce9aa373a774f3869a2cb23fc7da50ff548087360b8  cloud-kingdom-0.3.0-beta-debug.apk
 2e0d93d0a254e686609a5ecab5da4993268dcddec382fd3b2d4a78c2bbeffe53  cloud-kingdom-0.3.1-beta-debug.apk
 9e46343a18323da29f393bc95cfa269dd2081c176a37a179cb2c873afc245894  bitty-net-adventure-0.4.0-beta-debug.apk
-ec62d92fc244de693048c73230259135441de5f56bdff3c36be2e14ef9d09f5c  bitty-net-adventure-0.4.1-beta-debug.apk
+b0ff9b5a280f5c3484e1a0b4094ce296dec9f41eb7e1a8db5328d08c3d4c8ef1  bitty-net-adventure-0.4.1-beta-debug.apk

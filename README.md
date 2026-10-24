@@ -9,7 +9,7 @@
 This repository holds downloads and tester info only — no source code.
 
 - 🎮 Landing page / דף נחיתה: https://cyberlab-3d-kids--platformer-beta-pc5dxftd.web.app/net-adventure/
-- 🧪 Beta test APK 0.4.1 (debug-signed, not the release key) / APK בדיקה: [`beta/bitty-net-adventure-0.4.1-beta-debug.apk`](beta/bitty-net-adventure-0.4.1-beta-debug.apk) · new clean title, settings and pause menus / מסך פתיחה, הגדרות והשהייה חדשים
+- 🧪 Beta test APK 0.4.1 (debug-signed, not the release key) / APK בדיקה: [`beta/bitty-net-adventure-0.4.1-beta-debug.apk`](beta/bitty-net-adventure-0.4.1-beta-debug.apk) · new title/settings/pause menus, sound menu (music · effects · narration), music ducking, narrator voice & speed, walk-level coins / מסכים חדשים, תפריט קול, הנמכת מוזיקה בזמן דיבוב, קול וקצב מספר, מטבעות בגובה ההליכה
 - 🧪 Beta test APK 0.4.0 (debug-signed, not the release key) / APK בדיקה: [`beta/bitty-net-adventure-0.4.0-beta-debug.apk`](beta/bitty-net-adventure-0.4.0-beta-debug.apk) · SHA-256 in [`SHA256SUMS.txt`](beta/SHA256SUMS.txt)
 - ℹ️ New Android id `com.scitedra.bittynet`: installs next to the old "Cloud Kingdom" test app / מזהה חדש — מותקן לצד אפליקציית הבדיקה הישנה, אפשר להסיר אותה ידנית.
 - 🐞 Bugs / באגים: [Issues](../../issues)
