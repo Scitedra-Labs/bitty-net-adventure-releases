@@ -1,1 +1,2 @@
 78df8fab0fde11a9282b0ce9aa373a774f3869a2cb23fc7da50ff548087360b8  cloud-kingdom-0.3.0-beta-debug.apk
+2e0d93d0a254e686609a5ecab5da4993268dcddec382fd3b2d4a78c2bbeffe53  cloud-kingdom-0.3.1-beta-debug.apk
