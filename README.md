@@ -1,5 +1,13 @@
 # הרפתקת הרשת של ביטי · Bitty's Net Adventure (Beta 0.4.1)
 
+**📄 [Product page](https://scitedra-labs.web.app/en/net-adventure/)** · **⬇ [Android beta APK](https://github.com/Scitedra-Labs/bitty-net-adventure-releases/tree/beta-apk/beta)**
+
+<div dir="rtl" lang="he">
+
+**📄 [עמוד המוצר](https://scitedra-labs.web.app/net-adventure/)** · **⬇ [APK בטא לאנדרואיד](https://github.com/Scitedra-Labs/bitty-net-adventure-releases/tree/beta-apk/beta)**
+
+</div>
+
 _(לשעבר ממלכת הענן · formerly Cloud Kingdom)_
 
 **עברית** — משחק פלטפורמה מקורי לילדים (6+) על בטיחות ברשת, מבית Scitedra Labs. 35 שלבים ב־7 עולמות, צינורות קסם, 3 דרגות קושי, מוזיקה מקורית, ניקוד ופנייה לבן/בת, 4 שפות. בלי פרסומות ובלי איסוף מידע.
@@ -8,7 +16,7 @@ _(לשעבר ממלכת הענן · formerly Cloud Kingdom)_
 **English** — An original kids' platformer (ages 6+) about online safety by Scitedra Labs. 35 levels in 7 worlds, warp pipes, 3 difficulty levels, original music, 4 languages. No ads, no data collection.
 This repository holds downloads and tester info only — no source code.
 
-- 🎮 Play & landing page / משחק ודף נחיתה: https://cyberlab-3d-kids.web.app/net-adventure/
+- 🎮 Play & landing page / משחק ודף נחיתה: https://scitedra-labs.web.app/net-adventure/
 - 🌐 Scitedra Labs: https://scitedra-labs.web.app/net-adventure/
 - ⬇ APK 0.4.1-beta: [`beta/bitty-net-adventure-0.4.1-beta-debug.apk`](../beta-apk/beta/bitty-net-adventure-0.4.1-beta-debug.apk) · SHA-256 `b0ff9b5a280f5c3484e1a0b4094ce296dec9f41eb7e1a8db5328d08c3d4c8ef1`
 - 🧪 Beta test APK (debug-signed, not the release key) / APK בדיקה: branch [`beta-apk`](../../tree/beta-apk)
